@@ -1,7 +1,6 @@
 #unbreak 	0
 #void		1
-#break		2
-#through	3
+
 
 #TEst map	array of array [[],[],[]]
 map_grid_1 = [
@@ -82,4 +81,5 @@ map_grid_5 = [
 ]
 
 
+#inserer la map dans l'array ci dessous
 map_grid_AllList = [map_grid_1,map_grid_2,map_grid_3,map_grid_4,map_grid_5]
